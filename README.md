@@ -2,6 +2,7 @@
 
 This project applies Reinforcement Learning (RL) to model and predict fuel price trends using Proximal Policy Optimization (PPO) and Advantage Actor-Critic (A2C) algorithms. The custom RL environment optimizes decision-making in dynamic fuel markets, leveraging advanced data preprocessing, feature engineering, and hyperparameter tuning to enhance predictive accuracy.
 
+
 📌 Features
 
 🔹 Custom RL Environment: Built using OpenAI Gym, defining action (Buy, Sell, Hold) and reward mechanisms for fuel price optimization.
@@ -13,6 +14,7 @@ This project applies Reinforcement Learning (RL) to model and predict fuel price
 🔹 Visualization & Insights: Generates heatmaps, scatter plots, and trend analysis for market behavior understanding.
 
 
+
 📊 Outcomes
 
 ✔️ Improved fuel price prediction accuracy
@@ -20,6 +22,7 @@ This project applies Reinforcement Learning (RL) to model and predict fuel price
 ✔️ Enhanced decision-making for procurement & pricing strategies
 
 ✔️ Potential for real-time market adaptation & automated trading systems
+
 
 
 🔮 Future Enhancements
@@ -31,6 +34,7 @@ This project applies Reinforcement Learning (RL) to model and predict fuel price
 🧠 Hybrid Modeling (combining RL with LSTM, ARIMA)
 
 🌱 Sustainability Integration (including environmental impact factors)
+
 
 
 🛠️ Installation
