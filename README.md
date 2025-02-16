@@ -18,10 +18,6 @@ This project applies Reinforcement Learning (RL) to model and predict fuel price
 🧠 Hybrid Modeling (combining RL with LSTM, ARIMA)
 🌱 Sustainability Integration (including environmental impact factors)
 
-📂 Dataset
-The dataset used in this project can be accessed here:
-🔗 Fuel Prices Dataset
-
 🛠️ Installation
 To set up and run the project, install the required dependencies:
 
